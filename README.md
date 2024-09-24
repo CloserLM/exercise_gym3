@@ -1,2 +1,2 @@
 First Git repository
-Some features
+New features
